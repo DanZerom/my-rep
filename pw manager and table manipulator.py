@@ -2,7 +2,7 @@ import sqlite3
 from datetime import date
 import random
 
-""" Welcome to the password, and not only, manager.
+""" Welcome to the password, and not only, manager [CRUD].
     The idea is straight forward. 
     Create sqlite3 database file and then expand it/modify/delete the content.
     Currently the only lacking features are:
