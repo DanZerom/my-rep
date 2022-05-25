@@ -9,6 +9,8 @@ import random
     -- Dynamic table mapping. I want it to look symmetrical and aesthetic.
     -- To delete specific rows; 
     -- Define database file location [fhand] which has to be done manually;
+    
+    EDIT FHAND DB LOCATION!
 """
 
 
