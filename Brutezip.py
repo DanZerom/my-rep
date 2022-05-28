@@ -43,7 +43,7 @@ def generator(num_length):
         output = ""
         x = random.choices(key_list, k=int(num_length))
         output = "".join(x)
-        #Send the password to extract function
+        #Send the password to the extract function
         extract(output)
         #Count the amount of iterations and print them out.
         i += 1
